@@ -24,3 +24,7 @@ p {
   font-size: 32px;
   color: #4ecca3;
 }
+button {
+  padding: 15px;
+  margin-left: 650px;
+}
